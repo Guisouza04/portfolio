@@ -1,73 +1,62 @@
-# Welcome to your Lovable project
+# 📌 Portfólio -- Guilherme Guaita
 
-## Project info
+Bem-vindo ao meu portfólio!\
+Este projeto foi desenvolvido com o objetivo de apresentar meus
+principais trabalhos, experiências e habilidades na área de tecnologia.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+## 🚀 Tecnologias utilizadas
 
-## How can I edit this code?
+Este portfólio foi construído com:
 
-There are several ways of editing your application.
+- **React**
+- **TypeScript**
+- **Tailwind CSS**
+- **Vite**
+- **Shadcn UI**
 
-**Use Lovable**
+## 📁 Como rodar o projeto localmente
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
+Siga os passos abaixo para executar o projeto em sua máquina:
 
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+# Clone este repositório
+git clone <URL_DO_SEU_REPOSITORIO>
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+# Acesse a pasta do projeto
+cd <NOME_DO_PROJETO>
 
-# Step 3: Install the necessary dependencies.
-npm i
+# Instale as dependências
+npm install
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Inicie o servidor de desenvolvimento
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+O projeto estará disponível no endereço exibido no terminal (geralmente
+`http://localhost:5173`).
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 🌐 Deploy
 
-**Use GitHub Codespaces**
+Este portfólio pode ser facilmente hospedado em plataformas como:
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+- **Vercel**
+- **Netlify**
+- **GitHub Pages**
+- **Cloudflare Pages**
 
-## What technologies are used for this project?
+Para gerar o build:
 
-This project is built with:
+```sh
+npm run build
+```
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+## 👨‍💻 Sobre mim
 
-## How can I deploy this project?
+Meu nome é **Guilherme Guaita**, e utilizo este espaço para apresentar
+meus projetos, estudos e evolução profissional no mundo da tecnologia.
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+## 📬 Contato
 
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+- **LinkedIn:** (https://www.linkedin.com/in/guilherme-guaita-de-souza-0a32ab25a/)
+- **GitHub:** (https://github.com/Guisouza04/)
+- **Email:** (guilhermeguaitasouza@icloud.com)
