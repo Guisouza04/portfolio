@@ -1,14 +1,14 @@
 import { motion, useInView } from "framer-motion";
 import { useRef, useState } from "react";
-import { Github, Linkedin, Twitter, Mail, Send } from "lucide-react";
+import { Github, Linkedin, Mail, Send, PhoneOutgoing } from "lucide-react";
 import { useLanguage } from "@/contexts/LanguageContext";
 import { useToast } from "@/hooks/use-toast";
 
 const socials = [
-  { name: "GitHub", icon: Github, href: "https://github.com" },
-  { name: "LinkedIn", icon: Linkedin, href: "https://linkedin.com" },
-  { name: "Twitter", icon: Twitter, href: "https://twitter.com" },
-  { name: "Email", icon: Mail, href: "mailto:hello@johndeveloper.com" },
+  { name: "GitHub", icon: Github, href: "https://github.com/Guisouza04"},
+  { name: "LinkedIn", icon: Linkedin, href: "https://www.linkedin.com/in/guilherme-guaita-de-souza-0a32ab25a/com" },
+  { name: "WhatsApp", icon: PhoneOutgoing, href: "https://wa.me/5548988003374" },
+  { name: "Email", icon: Mail, href: "guilhermeguaitasouza@icloud.com" },
 ];
 
 export function Contact() {

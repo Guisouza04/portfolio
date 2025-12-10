@@ -39,7 +39,7 @@ export function Header() {
           whileHover={{ scale: 1.05 }}
           whileTap={{ scale: 0.95 }}
         >
-          <span className="text-primary">J</span>D
+          <span className="text-primary">G</span>G
         </motion.a>
 
         {/* Desktop Navigation */}

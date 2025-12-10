@@ -1,5 +1,4 @@
 import { motion } from "framer-motion";
-import { Heart } from "lucide-react";
 import { useLanguage } from "@/contexts/LanguageContext";
 
 export function Footer() {
@@ -18,10 +17,9 @@ export function Footer() {
           >
             {t.footer.made}{" "}
             <motion.span
-              animate={{ scale: [1, 1.2, 1] }}
-              transition={{ duration: 1, repeat: Infinity }}
-            >
-              <Heart size={14} className="text-primary fill-primary" />
+              animate={{ scale: [1, 1.1, 1] }}
+              transition={{ duration: 3, repeat: Infinity }}
+            >⚛️React
             </motion.span>{" "}
             {t.footer.by}
           </motion.p>
