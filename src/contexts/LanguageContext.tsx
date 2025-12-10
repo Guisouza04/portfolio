@@ -12,7 +12,7 @@ const translations = {
     },
     hero: {
       greeting: "Hello, I'm",
-      name: "John Developer",
+      name: "Guilherme Guaita de Souza",
       title: "Full-Stack Developer & Designer",
       subtitle: "I craft digital experiences that merge beautiful design with robust functionality. Based in São Paulo, working globally.",
       cta: "Let's Talk",
@@ -86,7 +86,7 @@ const translations = {
     },
     footer: {
       made: "Made with",
-      by: "by John Developer",
+      by: "by Guilherme Guaita de Souza",
       rights: "All rights reserved.",
     },
   },
@@ -99,7 +99,7 @@ const translations = {
     },
     hero: {
       greeting: "Olá, eu sou",
-      name: "John Developer",
+      name: "Guilherme Guaita de Souza",
       title: "Desenvolvedor Full-Stack & Designer",
       subtitle: "Crio experiências digitais que unem design bonito com funcionalidade robusta. Baseado em São Paulo, trabalhando globalmente.",
       cta: "Vamos Conversar",
@@ -173,7 +173,7 @@ const translations = {
     },
     footer: {
       made: "Feito com",
-      by: "por John Developer",
+      by: "por Guilherme Guaita de Souza",
       rights: "Todos os direitos reservados.",
     },
   },
